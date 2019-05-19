@@ -5,5 +5,6 @@ class Dog
     end
 end
 
-breed.new
+
+breed = Dog.new
 breed = "Mutt"
